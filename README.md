@@ -1,5 +1,3 @@
-Certainly! Below is a sample GitHub README text based on the provided code:
-
 ---
 
 # Data Structures & Algorithms Project
@@ -14,11 +12,11 @@ This project aims to provide implementations of various kinds of data structures
   - [2. Queues](#2-queues)
   - [3. Linked Lists](#3-linked-lists)
   - [4. Trees](#4-trees)
-    - [4.1 Binary Search Tree](#41-binary-search-tree)
-    - [4.2 AVL Tree](#42-avl-tree)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+    - [4.1 Binary Search Tree](#4.1-binary-search-tree)
+    - [4.2 AVL Tree](#4.2-avl-tree)
+- [Usage])
+- [File Structure]
+- [License]
 
 ## Introduction
 
@@ -69,9 +67,6 @@ An AVL tree is a self-balancing binary search tree. It maintains a balance facto
 ```
 ## Website Page Reference Link:
 
-Follow the link to implement the code in your device - 
-
+Follow the link to implement the code in your device - https://nirmalsaiswaroopj.github.io/Data-Structures-Project/DSA%20Project.py
 
 ---
-
-
