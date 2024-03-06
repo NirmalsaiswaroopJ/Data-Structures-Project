@@ -14,9 +14,8 @@ This project aims to provide implementations of various kinds of data structures
   - [4. Trees](#4-trees)
     - [4.1 Binary Search Tree](#4.1-binary-search-tree)
     - [4.2 AVL Tree](#4.2-avl-tree)
-- [Usage])
-- [File Structure]
-- [License]
+- [Usage](#usage)
+- [File Structure](#file-structure)
 
 ## Introduction
 
